@@ -1,10 +1,10 @@
-<h1 align="center">Hello! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> I'm Talita Santos - Front-end Developer - JavaScript | React</h1>
+<h1 align="center">Olá! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> Sou Talita Santos - Front-end Developer - JavaScript | React</h1>
 
 <div align="center">
    <img height="380em" src="https://media.giphy.com/media/26SSWjcPAKCyXdCXgh/giphy.gif"/>
 </div>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Conecte-se comigo</h3>
 
 <div align="center">
 <p><a href="mailto:talita.santos.tech@gmail.com"><img src="https://img.shields.io/badge/-talita.santos.tech@gmail.com-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail"></a>
@@ -13,10 +13,10 @@
 
 ***
 <div align="center">
-   <h3> Fluent in programming languages and business language </h3>
+   <h3> Fluente em algumas linguagens de programação e linguagem de negócios </h3>
 </div>
 
-- 🎯  I love technology, but I love even more the business results and transformations it can bring, by choosing the right technology for the right problem to create high-value solutions.
+- 🎯  Amo tecnologia, mas amo ainda mais as transformações que ela pode trazer na vida das pessoas.
 
 - 📈 Adherent to agile methodologies, I also have the Scrum - SFC certification from (Scrum study) [Check it out here.](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-FelipeSilvaAguiar-752533.pdf).
 
@@ -36,7 +36,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-ECE2FB?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-ECE2FB?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-ECE2FB?style=for-the-badge&logo=react&logoColor=1572B6)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-ECE2FB?style=for-the-badge&logo=Angular&logoColor=D36E55)&nbsp;
 
 ### ⚡ &nbsp;Database 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-ECE2FB?style=for-the-badge&logo=mongodb)&nbsp;
