@@ -18,17 +18,14 @@
 
 - :heart:  Amo tecnologia, mas amo ainda mais as transformações que ela pode trazer na vida das pessoas.
 
-- 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para Tecnologia e sigo me atualizando sobre as tendências tecnológicas do mercado através de cursos, especializações e resolvendo problemas reais através de projetos práticos.
+- 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para Tecnologia e sigo me atualizando sobre as tendências tecnológicas do mercado através de cursos, especializações e resolvendo problemas reais desenvolvendo de projetos práticos.
 
 ***
 ## 🛠 &nbsp;Tech Stack
 
 ### 👩‍💻 &nbsp;Back-End
 
-![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript)&nbsp;
-![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=1572B6)&nbsp;
-![c-sharp](https://img.shields.io/badge/-C%23-ECE2FB?style=for-the-badge&logo=c-sharp&logoColor=1572B6)&nbsp;
 
 ### 🎨 &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/-HTML-ECE2FB?style=for-the-badge&logo=HTML5)&nbsp;
