@@ -13,14 +13,12 @@
 
 ***
 <div align="center">
-   <h3> Fluente em algumas linguagens de programação e linguagem de negócios </h3>
+   <h3> Fluente em algumas linguagens de programação e na linguagem de negócios </h3>
 </div>
 
-- 🎯  Amo tecnologia, mas amo ainda mais as transformações que ela pode trazer na vida das pessoas.
+- :heart:  Amo tecnologia, mas amo ainda mais as transformações que ela pode trazer na vida das pessoas.
 
-- 📈 Adherent to agile methodologies, I also have the Scrum - SFC certification from (Scrum study) [Check it out here.](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-FelipeSilvaAguiar-752533.pdf).
-
-- 🎓 Graduated in Computer Science and I continue to update myself on market technology trends through technical courses, I specialize in enterprise solutions.
+- 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para Tecnologia e sigo me atualizando sobre as tendências tecnológicas do mercado através de cursos, especializações e projetos práticos.
 
 ***
 ## 🛠 &nbsp;Tech Stack
