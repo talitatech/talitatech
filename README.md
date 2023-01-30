@@ -2,16 +2,13 @@
 
 <div align="center">
    <img height="380em" src="https://media.giphy.com/media/26SSWjcPAKCyXdCXgh/giphy.gif"/>
-</div>
-
-<h3 align="center">Conecte-se comigo</h3>
+</div>&nbsp
 
 <div align="center">
 <p><a href="mailto:talita.santos.tech@gmail.com"><img src="https://img.shields.io/badge/-talita.santos.tech@gmail.com-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail"></a>
 <a href="https://www.linkedin.com/in/talita-santos-dev/"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
 </div>
 
-***
 <div align="center">
    <h3> Fluente em algumas linguagens de programação e na linguagem de negócios </h3>
 </div>
@@ -20,7 +17,6 @@
 
 - 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para Tecnologia e sigo me atualizando sobre as tendências tecnológicas do mercado através de cursos, especializações e resolvendo problemas reais desenvolvendo de projetos práticos.
 
-***
 ## 🛠 &nbsp;Tech Stack
 
 ### 👩‍💻 &nbsp;Back-End
