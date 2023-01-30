@@ -35,9 +35,7 @@
 
 
 ### ⚡ &nbsp;Database 
-![MongoDB](https://img.shields.io/badge/-MongoDB-ECE2FB?style=for-the-badge&logo=mongodb)&nbsp;
-![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-ECE2FB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-ECE2FB?style=for-the-badge&logo=mysql)&nbsp;
+![MongoDB](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 ## 📊 &nbsp;Stats
 
