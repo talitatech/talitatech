@@ -25,7 +25,8 @@
 
 ### 👩‍💻 &nbsp;Back-End
 
-![TypeScript](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript)&nbsp;![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+
 
 ### 🎨 &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/-HTML-ECE2FB?style=for-the-badge&logo=HTML5)&nbsp;
