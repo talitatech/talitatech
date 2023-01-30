@@ -19,12 +19,12 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-### 👩‍💻 &nbsp;Back-End
+### &nbsp;Back-End
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 
-### 🎨 &nbsp;Front-end
+### &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
@@ -34,7 +34,7 @@
 
 
 
-### ⚡ &nbsp;Database 
+### &nbsp;Database 
 ![MongoDB](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 ## 📊 &nbsp;Stats
