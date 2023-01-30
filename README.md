@@ -1,4 +1,4 @@
-<h1 align="center">Olá! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> Sou Talita Santos - Front-end Developer - JavaScript | React</h1>
+<h1 align="center">Olá! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_medium-dark-skin-tone_1f44b-1f3fe_1f3fe.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> Sou Talita Santos - Desenvolvedora Front-end - JavaScript | React</h1>
 
 <div align="center">
    <img height="380em" src="https://media.giphy.com/media/26SSWjcPAKCyXdCXgh/giphy.gif"/>
