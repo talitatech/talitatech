@@ -15,7 +15,7 @@
 
 - :heart:  Amo tecnologia, mas amo ainda mais as transformações que ela pode trazer na vida das pessoas.
 
-- 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para Tecnologia e sigo me atualizando sobre as tendências tecnológicas do mercado através de cursos, especializações e resolvendo problemas reais desenvolvendo de projetos práticos.
+- 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para Tecnologia e sigo me atualizando sobre as tendências tecnológicas do mercado através de cursos, especializações e resolvendo problemas reais desenvolvendo projetos práticos.
 
 ## 🛠 &nbsp;Tech Stack
 
