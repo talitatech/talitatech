@@ -21,7 +21,7 @@
 
 ### &nbsp;Back-End
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20APRENDIZADO&color=GREEN&style=for-the-badge)
 
 
 ### &nbsp;Front-end
