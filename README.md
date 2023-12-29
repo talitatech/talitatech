@@ -37,12 +37,6 @@
 ### &nbsp;Database 
 ![MongoDB](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
-## 📊 &nbsp;Stats
-
-<h3 align="left">GitHub Stats</h3>
-
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=talitatech&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&theme=dark)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=talitatech&theme=dark&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true)](https://github.com/elidianaandrade/github-readme-stats)
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=talitatech&theme=dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&border=181832&ring=7520FF&stroke=181832&currStreakLabel=ED00F2&sideLabels=FCFCFC&currStreakNum=ED00F2&fire=ED00F2&sideNums=7520FF&dates=8B8B8B)](https://git.io/streak-stats)
