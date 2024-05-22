@@ -9,10 +9,6 @@
 <a href="https://www.linkedin.com/in/talita-santos-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
-<div align="center">
-   <h3> Fluente em algumas linguagens de programação e na linguagem de negócios </h3>
-</div>
-
 - :heart:  Amo tecnologia, mas amo ainda mais as transformações que ela pode trazer na vida das pessoas.
 
 - 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para Tecnologia e sigo me atualizando sobre as tendências tecnológicas do mercado através de cursos, especializações e resolvendo problemas reais desenvolvendo projetos práticos.
