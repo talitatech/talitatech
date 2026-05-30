@@ -14,7 +14,7 @@
 - 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para Tecnologia e sigo me atualizando sobre as tendências tecnológicas do mercado através de cursos, especializações e resolvendo problemas reais desenvolvendo projetos práticos.
 
 
-### &nbsp;Back-End
+### &nbsp;
 
 
 
