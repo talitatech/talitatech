@@ -15,7 +15,7 @@
 
 - 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para a área de Tecnologia em 2019 e sigo me atualizando sobre as tendências do mercado através de cursos, especializações e resolvendo problemas reais desenvolvendo projetos práticos.
 
-### 💻 Tecnologias
+### 💻 Tecnologias que já desenvolvi
 
 **Linguagens de Programação**
 <div align="left">
