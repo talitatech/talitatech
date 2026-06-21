@@ -2,28 +2,46 @@
 
 <div align="center">
    <img height="380em" src="https://media.giphy.com/media/26SSWjcPAKCyXdCXgh/giphy.gif"/>
-</div>&nbsp
+</div>&nbsp;
 
 <div align="center">
-<p><a href="mailto:talita.santos.tech@gmail.com"><img src="https://img.shields.io/badge/-talita.santos.tech@gmail.com-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail"></a>
-<a href="https://www.linkedin.com/in/talita-santos-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p>
+  <a href="mailto:talita.santos.tech@gmail.com"><img src="https://img.shields.io/badge/-talita.santos.tech@gmail.com-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail"></a>
+  <a href="https://www.linkedin.com/in/talita-santos-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 </div>
 
 - :heart:  Amo tecnologia, mas amo ainda mais as transformações que ela pode trazer na vida das pessoas.
 
-- 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para Tecnologia e sigo me atualizando sobre as tendências tecnológicas do mercado através de cursos, especializações e resolvendo problemas reais desenvolvendo projetos práticos.
+- 🎓 Formada em Ciências Contábeis pelo Mackenzie, migrei para a área de Tecnologia em 2019 e sigo me atualizando sobre as tendências do mercado através de cursos, especializações e resolvendo problemas reais desenvolvendo projetos práticos.
 
+### 💻 Tecnologias que já desenvolvi
+
+**Linguagens e Front-end**
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-020114?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-020114?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-020114?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-020114?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-020114?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-020114?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/WordPress-020114?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress" />
+</div>
+
+<br>
+
+**Bancos de Dados, Frameworks e Ferramentas**
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-020114?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-020114?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-020114?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Spring_Boot-020114?style=for-the-badge&logo=spring-boot&logoColor=6DB33F" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Node.js-020114?style=for-the-badge&logo=node.js&logoColor=339939" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-020114?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-020114?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+</div>
 
 ### &nbsp;
-
-
-
-
-
-<!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=talitatech&theme=dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&border=181832&ring=7520FF&stroke=181832&currStreakLabel=ED00F2&sideLabels=FCFCFC&currStreakNum=ED00F2&fire=ED00F2&sideNums=7520FF&dates=8B8B8B)](https://git.io/streak-stats)
-
--->
 
 <details align="left">
   <summary>Credits</summary> 
