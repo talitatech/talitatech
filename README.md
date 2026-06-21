@@ -17,7 +17,7 @@
 
 ### 💻 Tecnologias que já desenvolvi
 
-**Linguagens e Front-end**
+**Linguagens**
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-020114?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-020114?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
